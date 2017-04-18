@@ -1,0 +1,1 @@
+creen -S "Counter-Strike: Global Offensive Server" ./Steam/csgoserver/srcds_run -game csgo -usercon +game_type 0 +game_mode 0 +map fun_sensio2 +ip 00.00.00.00 +sv_setsteamaccount [XXXXX] -net_port_try 1
